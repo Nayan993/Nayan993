@@ -85,7 +85,10 @@ Currently pursuing **Masters of Computer Applications** at **NIT Allahabad (2025
 
 ## 📊 GitHub Stats
 
-![Nayan's GitHub Stats](./github-stats.svg)
+## 📊 GitHub Stats
+
+![Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayan993&show_icons=true&theme=dark)
+
 
 ---
 
