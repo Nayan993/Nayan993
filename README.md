@@ -85,15 +85,14 @@ Currently pursuing **Masters of Computer Applications** at **NIT Allahabad (2025
 
 ## 📊 GitHub Stats
 
-![Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayan993&show_icons=true&theme=dark&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan993&layout=compact&theme=dark)
+![Nayan's GitHub Stats](./github-stats.svg)
 
 ---
 
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-mishra-9b4778250)  
-Email: [nayan@example.com](mailto:nayan@example.com)
+Email: [nayancoder12@gmail.com](mailto:nayancoder12@gmail.com)
 
 ---
 
