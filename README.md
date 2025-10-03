@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Nayan Mishra
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-mishra-9b4778250)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nayan993)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Nayan993](https://nayancoder.netlify.app/))
 
 Aspiring **Software Developer** | MERN Stack Enthusiast | DSA Problem Solver  
 Currently pursuing **Masters of Computer Applications** at **NIT Allahabad (2025–2028)**.
@@ -98,7 +98,7 @@ Currently pursuing **Masters of Computer Applications** at **NIT Allahabad (2025
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-mishra-9b4778250)  
-Email: [nayan@example.com](mailto:nayan@example.com)
+Email: [nayancoder12@gmail.com](mailto:nayancoder12@gmail.com)
 
 ---
 
