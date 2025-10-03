@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Nayan Mishra
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-mishra-9b4778250)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Nayan993](https://nayancoder.netlify.app/))
 
 Aspiring **Software Developer** | MERN Stack Enthusiast | DSA Problem Solver  
 Currently pursuing **Masters of Computer Applications** at **NIT Allahabad (2025–2028)**.
@@ -16,11 +15,7 @@ Currently pursuing **Masters of Computer Applications** at **NIT Allahabad (2025
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-
+**Frameworks & Libraries:** React, Node.js, Express.js  
 **Databases:** MongoDB, MySQL  
 **Tools:** Git, Postman  
 **Operating Systems:** Windows, macOS
@@ -30,7 +25,7 @@ Currently pursuing **Masters of Computer Applications** at **NIT Allahabad (2025
 ## 🎓 Education
 
 - **Motilal Nehru National Institute of Technology, Allahabad**  
-  Masters of Computer Applications | 2025–2028 (Expected) | Prayagraj, India
+  Masters of Computer Applications | 2025–2028 | Prayagraj, India
 
 - **Dr. Virendra Swarup Institute of Computer Studies**  
   Bachelor of Computer Applications | 2022–2025 | Kanpur, India
@@ -42,11 +37,11 @@ Currently pursuing **Masters of Computer Applications** at **NIT Allahabad (2025
 <details>
 <summary>Healthy Contributors | MERN Stack</summary>
 
-- Built a **community-driven platform** with 50+ curated learning resources across Full-Stack, Backend, and Android.  
-- Implemented **secure authentication** with JWT & bcrypt.  
-- Enabled 10+ contributors to publish articles, boosting engagement by 40%.  
-- Integrated a **LeetCode leaderboard** tracking 50+ daily submissions.  
-- Tested for **100+ concurrent requests**.  
+- Built a **community-driven platform** with 50+ curated learning resources across Full-Stack, Backend, and Android  
+- Implemented **secure authentication** with JWT & bcrypt  
+- Enabled 10+ contributors to publish articles, boosting engagement by 40%  
+- Integrated a **LeetCode leaderboard** tracking 50+ daily submissions  
+- Tested for **100+ concurrent requests**  
 - **Live:** [healthycontributors.org](https://healthycontributors.org)
 
 </details>
@@ -54,9 +49,9 @@ Currently pursuing **Masters of Computer Applications** at **NIT Allahabad (2025
 <details>
 <summary>SAAS – Personal Fitness Tracker | React, Node.js, MongoDB</summary>
 
-- Developed a **fitness tracker** with authentication and 30+ personalized workout/diet plans.  
-- Designed a **dashboard** for tracking progress; improved activity consistency by 30%.  
-- Tested with 100+ active users for smooth database queries.  
+- Developed a **fitness tracker** with authentication and 30+ personalized workout/diet plans  
+- Designed a **dashboard** for tracking progress; improved activity consistency by 30%  
+- Tested with 100+ active users for smooth database queries  
 - **Live:** [saas-fitness-tracker.netlify.app](https://saas-fitness-tracker.netlify.app)
 
 </details>
@@ -64,9 +59,9 @@ Currently pursuing **Masters of Computer Applications** at **NIT Allahabad (2025
 <details>
 <summary>Smile Sync | Python, Flask, OpenCV, AWS</summary>
 
-- Built a **computer vision attendance system**, tested on 100+ student images.  
-- Achieved **95% recognition accuracy**, reducing manual attendance by 90%.  
-- Integrated **AWS S3** for secure image storage.  
+- Built a **computer vision attendance system**, tested on 100+ student images  
+- Achieved **95% recognition accuracy**, reducing manual attendance by 90%  
+- Integrated **AWS S3** for secure image storage  
 - **Source:** [GitHub Repo](https://github.com/Nayan993/smile-sync)
 
 </details>
@@ -76,10 +71,10 @@ Currently pursuing **Masters of Computer Applications** at **NIT Allahabad (2025
 ## 🏆 Internships & Training
 
 <details>
-<summary>Internships & Training Details</summary>
+<summary>Details</summary>
 
-- **Web Developer Intern** – Hotsprice Pvt. Ltd. | Jun 2024–August 2025 
-- **MERN Stack Development Training** – SK Deft |   Jun - July 2024
+- **Web Developer Intern** – Hotsprice Pvt. Ltd. | Jun–Jul 2024  
+- **MERN Stack Development Training** – SK Deft | Jun 2024–Present  
 - **AI & Machine Learning Training** – IIT Kanpur | Sep–Oct 2023  
 - **Python Training** – SK Deft | Jul 2023  
 - **Cyber Security & Ethical Hacking Workshop** – SK Deft | Oct 2022  
@@ -90,7 +85,7 @@ Currently pursuing **Masters of Computer Applications** at **NIT Allahabad (2025
 
 ## 📊 GitHub Stats
 
-![Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayan993&show_icons=true&theme=dark)  
+![Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayan993&show_icons=true&theme=dark&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan993&layout=compact&theme=dark)
 
 ---
@@ -98,7 +93,7 @@ Currently pursuing **Masters of Computer Applications** at **NIT Allahabad (2025
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-mishra-9b4778250)  
-Email: [nayancoder12@gmail.com](mailto:nayancoder12@gmail.com)
+Email: [nayan@example.com](mailto:nayan@example.com)
 
 ---
 
