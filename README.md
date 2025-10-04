@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Nayan Mishra
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-mishra-9b4778250)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://nayancoder.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://nayancoder.netlify.app/)
 
 💻 **Aspiring Software Developer** | MERN Stack Enthusiast | DSA Problem Solver  
 🎓 Pursuing **Masters of Computer Applications (2025–2028)** at **NIT Allahabad**
@@ -70,7 +70,7 @@
 <details>
 <summary>Expand</summary>
 
-- 💼 **Web Developer Intern** – Hotsprice Pvt. Ltd. | Jun 2024- Sep 2025
+- 💼 **Web Developer Intern** – Hotsprice Pvt. Ltd. | Jun 2024–Sep 2025  
 - 💻 **MERN Stack Training** – SK Deft | Jun–Jul 2024    
 - 🧠 **AI & ML Training** – IIT Kanpur | Sep–Oct 2023  
 - 🐍 **Python Training** – SK Deft | Jul 2023  
@@ -85,15 +85,15 @@
 > These stats include **private + public commits** and auto-refresh every 12 hours 🚀  
 
 <p align="center">
-  <img src="./stats.svg" alt="Nayan's GitHub Stats" width="49%"/>
-  <img src="./langs.svg" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nayan993&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan993&layout=compact&theme=dark" width="49%" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-mishra-9b4778250)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-mishra-9b4778250)  
 📧 [nayancoder12@gmail.com](mailto:nayancoder12@gmail.com)
 
 ---
