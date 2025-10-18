@@ -1,25 +1,34 @@
-# 👋 Hi there, I'm Nayan Mishra
+<h1 align="center">👋 Hey, I'm <span style="color:#00b4d8;">Nayan Mishra</span></h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-mishra-9b4778250)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://nayancoder.netlify.app/)
+<p align="center">
+  💻 <b>Aspiring Software Developer</b> | MERN Stack Enthusiast | DSA Problem Solver  
+  <br>
+  🎓 Pursuing <b>Masters of Computer Applications (2025–2028)</b> at <b>NIT Allahabad</b>
+</p>
 
-💻 **Aspiring Software Developer** | MERN Stack Enthusiast | DSA Problem Solver  
-🎓 Pursuing **Masters of Computer Applications (2025–2028)** at **NIT Allahabad**
+<p align="center">
+  <a href="https://www.linkedin.com/in/nayan-mishra-9b4778250">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://nayancoder.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
+**💡 Languages:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Frameworks & Libraries:** React, Node.js, Express.js  
-**Databases:** MongoDB, MySQL  
-**Tools:** Git, Postman  
-**Operating Systems:** Windows, macOS  
+**⚙️ Frameworks & Libraries:** React, Node.js, Express.js  
+**🗄️ Databases:** MongoDB, MySQL  
+**🧰 Tools:** Git, Postman  
+**💻 Operating Systems:** Windows, macOS  
 
 ---
 
@@ -36,41 +45,41 @@
 ## 🚀 Projects
 
 <details>
-<summary>🎧 Vocal Deck – Advanced Audio Editor | React, Electron, Node.js</summary>
+<summary>🎧 <b>Vocal Deck – Advanced Audio Editor</b> | React, Electron, Node.js</summary>
 
-- Developed a **desktop-based audio editor** for **WAV/MP3** with **trim, EQ, and preset effects**  
-- Added **undo/redo functionality** and **real-time waveform visualization**  
-- Built using **React + Electron** for cross-platform performance  
-- Deployed as a **standalone desktop app** for Windows and macOS  
-- Source Code: [GitHub Repo](https://github.com/Nayan993/VocalDeck)
-
-</details>
-
-<details>
-<summary>💡 Healthy Contributors | MERN Stack</summary>
-
-- Built a **community-driven platform** with 50+ curated learning resources  
-- Implemented **JWT authentication** & bcrypt security  
-- Integrated **LeetCode leaderboard** tracking 50+ users  
-- Deployed at [healthycontributors.org](https://healthycontributors.org)
+- 🎚️ Built a **desktop audio editor** for **WAV/MP3** with **trim, EQ, and preset effects**  
+- 🔄 Integrated **undo/redo support** with **real-time waveform visualization**  
+- ⚡ Powered by **React + Electron** for cross-platform desktop experience  
+- 💽 Deployed as a **standalone app** for Windows and macOS  
+- 🧩 [GitHub Repository](https://github.com/Nayan993/VocalDeck)
 
 </details>
 
 <details>
-<summary>🏋️‍♂️ SAAS – Personal Fitness Tracker | React, Node.js, MongoDB</summary>
+<summary>💡 <b>Healthy Contributors</b> | MERN Stack</summary>
 
-- Developed a **fitness tracker** with 30+ workout/diet plans  
-- Designed a **dashboard** to track progress; boosted consistency by 30%  
-- Deployed live at [saas-fitness-tracker.netlify.app](https://saas-fitness-tracker.netlify.app)
+- 🌐 A **community-driven learning platform** with 50+ curated resources  
+- 🔐 Secured using **JWT Authentication** & **bcrypt encryption**  
+- 📊 Added **LeetCode Leaderboard** tracking 50+ users  
+- 🚀 Live at [healthycontributors.org](https://healthycontributors.org)
 
 </details>
 
 <details>
-<summary>😊 Smile Sync | Python, Flask, OpenCV, AWS</summary>
+<summary>🏋️‍♂️ <b>SAAS – Personal Fitness Tracker</b> | React, Node.js, MongoDB</summary>
 
-- Created a **face-recognition attendance system** (95% accuracy)  
-- Integrated **AWS S3** for secure cloud storage  
-- Source Code: [GitHub Repo](https://github.com/Nayan993/smile-sync)
+- 🧠 Built a **fitness tracking dashboard** with 30+ workouts & diet plans  
+- 📈 Boosted user consistency by **30%** using goal tracking analytics  
+- 🌍 Hosted live at [saas-fitness-tracker.netlify.app](https://saas-fitness-tracker.netlify.app)
+
+</details>
+
+<details>
+<summary>😊 <b>Smile Sync</b> | Python, Flask, OpenCV, AWS</summary>
+
+- 🔍 Created a **face-recognition attendance system** with **95% accuracy**  
+- ☁️ Used **AWS S3** for secure data storage  
+- 📦 Source Code: [GitHub Repo](https://github.com/Nayan993/smile-sync)
 
 </details>
 
@@ -79,11 +88,11 @@
 ## 🏆 Internships & Training
 
 <details>
-<summary>Expand</summary>
+<summary>Expand to View</summary>
 
-- 💼 **Web Developer Intern** – Hotsprice Pvt. Ltd. | Jun 2024–Sep 2025  
-- 💻 **MERN Stack Training** – SK Deft | Jun–Jul 2024    
-- 🧠 **AI & ML Training** – IIT Kanpur | Sep–Oct 2023  
+- 💼 **Web Developer Intern** – Hotsprice Pvt. Ltd. | Jun 2024 – Sep 2025  
+- 💻 **MERN Stack Training** – SK Deft | Jun – Jul 2024    
+- 🧠 **AI & ML Training** – IIT Kanpur | Sep – Oct 2023  
 - 🐍 **Python Training** – SK Deft | Jul 2023  
 - 🔐 **Cyber Security Workshop** – SK Deft | Oct 2022  
 
@@ -104,9 +113,14 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-mishra-9b4778250)  
-📧 [nayancoder12@gmail.com](mailto:nayancoder12@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nayan-mishra-9b4778250">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp; • &nbsp;
+  📧 <a href="mailto:nayancoder12@gmail.com">nayancoder12@gmail.com</a>
+</p>
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*
+<h3 align="center">✨ “Code is like humor. When you have to explain it, it’s bad.” ✨</h3>
