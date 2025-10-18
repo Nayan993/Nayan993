@@ -36,6 +36,17 @@
 ## 🚀 Projects
 
 <details>
+<summary>🎧 Vocal Deck – Advanced Audio Editor | React, Electron, Node.js</summary>
+
+- Developed a **desktop-based audio editor** for **WAV/MP3** with **trim, EQ, and preset effects**  
+- Added **undo/redo functionality** and **real-time waveform visualization**  
+- Built using **React + Electron** for cross-platform performance  
+- Deployed as a **standalone desktop app** for Windows and macOS  
+- Source Code: [GitHub Repo](https://github.com/Nayan993/VocalDeck)
+
+</details>
+
+<details>
 <summary>💡 Healthy Contributors | MERN Stack</summary>
 
 - Built a **community-driven platform** with 50+ curated learning resources  
